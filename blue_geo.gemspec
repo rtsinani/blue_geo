@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Arti Sinani"]
   s.email       = ["artisinani@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Converts easting and northing into latitude and longitude}
+  s.description = %q{Converts easting and northing into latitude and longitude}
 
   s.rubyforge_project = "blue_geo"
 

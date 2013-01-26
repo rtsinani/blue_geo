@@ -2,4 +2,4 @@ blue_geo
 
 ======================================
 
-Converts easing and northing into latitude and longitude
+Converts easting and northing into latitude and longitude

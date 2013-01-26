@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-# require File.expand_path("../../lib/blue_geo/easting_northing_to_latitude_longitude_converter",  __FILE__)
 require File.expand_path("../../lib/blue_geo",  __FILE__)
 
 module BlueGeo
