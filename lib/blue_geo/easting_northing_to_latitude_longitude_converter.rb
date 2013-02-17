@@ -14,7 +14,6 @@ module BlueGeo
 
 
   	def convert(easting, northing)
-
       p       = ECCENT / 8
       a       = AXIS * (1 - (2 * p) - (3 * p ** 2) - (10 * p ** 3))
       b       = AXIS * ((6 * p) + (12 * p ** 2) + (45 * p ** 3 )) / 2
