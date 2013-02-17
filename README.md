@@ -1,8 +1,4 @@
-blue_geo
-
-======================================
-
-Converts easting and northing into latitude and longitude
+blue_geo converts easting and northing into latitude and longitude
 
 ### Installation
 
@@ -23,6 +19,3 @@ Get an array of ```latitude``` and ```longitude``` by calling:
 ```ruby
 latitude, longitude = BlueGeo.easting_northing_to_lat_lon(easting, northing)
 ```
-
-
-======================================
