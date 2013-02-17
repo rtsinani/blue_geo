@@ -21,7 +21,7 @@ gem 'blue_geo'
 Get an array of ```latitude``` and ```longitude``` by calling:
 
 ```ruby
-BlueGeo.easting_northing_to_lat_lon(easting, northing)
+latitude, longitude = BlueGeo.easting_northing_to_lat_lon(easting, northing)
 ```
 
 
