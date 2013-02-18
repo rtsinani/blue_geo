@@ -19,3 +19,7 @@ Get an array of ```latitude``` and ```longitude``` by calling:
 ```ruby
 latitude, longitude = BlueGeo.easting_northing_to_lat_lon(easting, northing)
 ```
+
+### Live
+
+Check out the [live example](http://bluegeo.herokuapp.com/).
